@@ -1,5 +1,7 @@
-File 0. Hello World contains a script that prints “Hello, World”, followed by a new line to the standard output.
+File 0-hello_world contains a script that prints “Hello, World”, followed by a new line to the standard output.
 
-File 1. Confused smiley contains a script that displays a confused smiley.
+File 1-confused_smiley contains a script that displays a confused smiley.
 
-File 2. Let's display a file, contains script that displays the content of the /etc/passwd file.
+File 2-hellofile contains script that displays the content of the /etc/passwd file.
+
+File 3-twofiles conains script that displays  the content of /etc/passwd and /etc/hosts
