@@ -39,4 +39,6 @@ File 17-hidethisword contains a script that display all the lines in the file /e
 
 File 18-letteronly contans a script that dispaly all lines of the file /etc/ssh/sshd_config starting with a letter, include capital letters as well.
 
-File 19-AZ contains a script that replace all characters A and c from input to Z and e respectively.
+File 19-AZ contains a script that replace all characters A and c from input to Zand e respectively.
+
+File 20-hiago contains a script that removes all letters c and C from input.
