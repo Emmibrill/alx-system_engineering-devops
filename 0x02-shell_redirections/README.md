@@ -48,3 +48,5 @@ File 21-reverse contains a script that reverse its input.
 File 22-users_and_homes contains a script  that displays all users and their home directories, sorted by users. Based on the the /etc/passwd file.
 
 File 100-empty_casks contains a script that finds all empty files and directories in the current directory and all sub-directories.
+
+File 101-gifs contains a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
