@@ -9,3 +9,6 @@ File 3-twofiles conains a script that displays  the content of /etc/passwd and /
 File 4-lastlines contains a script that displays the last 10 lines of /etc/passwd.
 
 File 5-firstlines contains a script that displays the first 10 lines of /etc/passwd.
+
+File 6-third_line contains a script that displays the third line of the file iacta.
+The file iacta will be in the working directory.
