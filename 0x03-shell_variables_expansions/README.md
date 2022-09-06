@@ -19,3 +19,5 @@ File 8-true_knowledge contains a script that prints the result of the addition o
 File 9-divide_and_rule contains a script that prints the result of POWER divided by DIVIDE, followed by a new line.
 
 File 10-love_exponent_breath contains s script that displays the result of BREATH to the power LOVE.
+
+File 11-binary_to_decimal contains a script that converts a number from base 2 to base 10. The number in base 2 is stored in the environment variable BINARY.
