@@ -38,3 +38,5 @@ File 16-whatsnext contains a script that display lines containing the pattern �
 File 17-hidethisword contains a script that display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 
 File 18-letteronly contans a script that dispaly all lines of the file /etc/ssh/sshd_config starting with a letter, include capital letters as well.
+
+File 19-AZ contains a script that replace all characters A and c from input to Z and e respectively.
