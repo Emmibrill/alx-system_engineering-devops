@@ -42,3 +42,5 @@ File 18-letteronly contans a script that dispaly all lines of the file /etc/ssh/
 File 19-AZ contains a script that replace all characters A and c from input to Zand e respectively.
 
 File 20-hiago contains a script that removes all letters c and C from input.
+
+File 21-reverse contains a script that reverse its input.
